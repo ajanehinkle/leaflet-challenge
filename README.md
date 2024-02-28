@@ -1,5 +1,5 @@
-# 
-Instructions
+# Instructions
+
 The instructions for this activity are broken into two parts:
 
 ### Part 1: Create the Earthquake Visualization
@@ -7,8 +7,6 @@ The instructions for this activity are broken into two parts:
 ### Part 2: Gather and Plot More Data (Optional with no extra points earning) - not completing
 
 ## Part 1: Create the Earthquake Visualization
-
-2-BasicMap
 
 Your first task is to visualize an earthquake dataset. Complete the following steps:
 
